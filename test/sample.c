@@ -1,0 +1,5 @@
+int main(void)
+{
+    write(1, "hello-world\n", 12);
+    return (0);
+}
